@@ -1,6 +1,6 @@
 ============================================================
 File list for: C:\common\Projects\AI-KJV-Prompt
-Generated on : Fri 10/31/2025 17:10:07.36
+Generated on : Fri 10/31/2025 17:16:15.50
 Script       : gh-filelist.bat
 ============================================================
 
@@ -21,8 +21,9 @@ C:\common\Projects\AI-KJV-Prompt\gh-dev-to-main-commit.bat
 C:\common\Projects\AI-KJV-Prompt\gh-filelist.bat
 C:\common\Projects\AI-KJV-Prompt\gh-set-user-RakaMaru.bat
 C:\common\Projects\AI-KJV-Prompt\gh-setup-user-RakaMaru.bat
+C:\common\Projects\AI-KJV-Prompt\INSTRUCTIONS.txt
 C:\common\Projects\AI-KJV-Prompt\README.md
 
 [TOTALS  (EXCLUDES .git)]
 Directories: 0
-Files      : 8
+Files      : 9
