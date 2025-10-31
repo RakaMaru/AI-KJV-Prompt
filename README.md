@@ -1,36 +1,26 @@
-\# AI-KJV-Prompt
+# AI-KJV-Prompt
 
+**A KJV-powered AI prompting system** with precise behavior for:
 
-
-\*\*KJV-powered AI prompting system\*\* with structured behavior for:
-
-\- `KJV:` → Classic King James quotes
-
-\- `KJVS:` → KJV + Strong’s Hebrew/Greek links
-
-\- `NKJV:` → Modernized King James
-
-
+- `KJV:` → Classic King James quotes  
+- `KJVS:` → KJV + Strong’s Hebrew/Greek links  
+- `NKJV:` → Modernized King James  
 
 ---
 
+## Features
 
-
-\### Features
-
-\- Verbatim scripture (no paraphrasing)
-
-\- Clean copy-paste output
-
-\- Red-letter HTML support
-
-\- Full rules in \[`INSTRUCTIONS.txt`](INSTRUCTIONS.txt)
-
-
+| Feature | Description |
+|---------|-------------|
+| **Verbatim Scripture** | No paraphrasing – exact text from the requested version |
+| **Clean Copy-Paste** | Plain-text output ready for any app |
+| **Red-Letter HTML** | Jesus’ words in `<span style="color:red">…</span>` |
+| **Strong’s Links** | Hyperlinked Hebrew/Greek numbers (BibleHub) |
+| **Full Rules** | See [`INSTRUCTIONS.txt`](INSTRUCTIONS.txt) |
 
 ---
 
+## Quick Start
 
-
-\*For developers \& AI prompt engineers using biblical text accurately.\*
-
+```txt
+KJV: Isaiah 41:10
