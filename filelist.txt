@@ -1,18 +1,16 @@
 ============================================================
 File list for: C:\common\Projects\AI-KJV-Prompt
-Generated on : Sat 08/22/2026 23:01:33.48
+Generated on : 2026-08-22 23:13:58
 Script       : gh-filelist.bat
 ============================================================
 
-[TREE /A]
-Folder PATH listing for volume OS
-Volume serial number is 000000E5 C2DB:DE38
-C:.
-No subfolders exist 
-
+[TREE]
+(excludes .git, .venv, venv, __pycache__, .idea, .vscode, mcps, node_modules, caches)
+C:\common\Projects\AI-KJV-Prompt
+\---scripts
 
 ------------------------------------------------------------
-[FLAT LIST: dir /s /b  (EXCLUDES .git)]
+[FLAT LIST  (excludes .git, .venv, venv, __pycache__, .idea, .vscode, mcps, node_modules, caches)]
 ------------------------------------------------------------
 C:\common\Projects\AI-KJV-Prompt\AGENTS.md
 C:\common\Projects\AI-KJV-Prompt\filelist.txt
@@ -20,11 +18,13 @@ C:\common\Projects\AI-KJV-Prompt\gh-dev-reset.bat
 C:\common\Projects\AI-KJV-Prompt\gh-dev-sync.bat
 C:\common\Projects\AI-KJV-Prompt\gh-dev-to-main-commit.bat
 C:\common\Projects\AI-KJV-Prompt\gh-filelist.bat
-C:\common\Projects\AI-KJV-Prompt\gh-set-user-RakaMaru.bat
 C:\common\Projects\AI-KJV-Prompt\gh-setup-user-RakaMaru.bat
+C:\common\Projects\AI-KJV-Prompt\gh-set-user-RakaMaru.bat
 C:\common\Projects\AI-KJV-Prompt\INSTRUCTIONS.txt
 C:\common\Projects\AI-KJV-Prompt\README.md
+C:\common\Projects\AI-KJV-Prompt\scripts
+C:\common\Projects\AI-KJV-Prompt\scripts\write-filelist.ps1
 
-[TOTALS  (EXCLUDES .git)]
-Directories: 0
-Files      : 10
+[TOTALS  (excludes .git, .venv, venv, __pycache__, .idea, .vscode, mcps, node_modules, caches)]
+Directories: 1
+Files      : 11
