@@ -1,12 +1,12 @@
 ============================================================
 File list for: C:\common\Projects\AI-KJV-Prompt
-Generated on : Fri 10/31/2025 17:16:15.50
+Generated on : Sat 08/22/2026 23:01:33.48
 Script       : gh-filelist.bat
 ============================================================
 
 [TREE /A]
 Folder PATH listing for volume OS
-Volume serial number is C2DB-DE38
+Volume serial number is 000000E5 C2DB:DE38
 C:.
 No subfolders exist 
 
@@ -14,6 +14,7 @@ No subfolders exist
 ------------------------------------------------------------
 [FLAT LIST: dir /s /b  (EXCLUDES .git)]
 ------------------------------------------------------------
+C:\common\Projects\AI-KJV-Prompt\AGENTS.md
 C:\common\Projects\AI-KJV-Prompt\filelist.txt
 C:\common\Projects\AI-KJV-Prompt\gh-dev-reset.bat
 C:\common\Projects\AI-KJV-Prompt\gh-dev-sync.bat
@@ -26,4 +27,4 @@ C:\common\Projects\AI-KJV-Prompt\README.md
 
 [TOTALS  (EXCLUDES .git)]
 Directories: 0
-Files      : 9
+Files      : 10
